@@ -1,0 +1,8 @@
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\bin\Debug\AppNavegadores.exe.config
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\bin\Debug\AppNavegadores.exe
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\bin\Debug\AppNavegadores.pdb
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\obj\Debug\AppNavegadores.Form1.resources
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\obj\Debug\AppNavegadores.Properties.Resources.resources
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\obj\Debug\AppNavegadores.csproj.GenerateResource.Cache
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\obj\Debug\AppNavegadores.exe
+c:\users\lab104bpc21\documents\visual studio 2012\Projects\AppNavegadores\AppNavegadores\obj\Debug\AppNavegadores.pdb
